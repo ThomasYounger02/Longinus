@@ -1,7 +1,9 @@
-# MLComponent
-The Component used a lot dealing with Maching Learning Problems
+# WatermelonPulp
+These files are examples of maching learning.
 
 # libraries
 - pandas
 - numpy
 - sklearn
+- seaborn
+- matplotlib
