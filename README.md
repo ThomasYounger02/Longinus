@@ -1,5 +1,6 @@
 # WatermelonPulp
 These files are examples of maching learning.
+examples/tools/pipeline/estimator/deploy
 
 # libraries
 - pandas
@@ -7,3 +8,8 @@ These files are examples of maching learning.
 - sklearn
 - seaborn
 - matplotlib
+
+# Files
+- linnermodel
+- logistic
+- SageMaker
